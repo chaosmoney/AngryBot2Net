@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+AngryBots2Net/.vsconfig
+AngryBots2Net/Library/
+AngryBots2Net/Temp/
+AngryBots2Net/Logs/
+AngryBots2Net/UserSettings/
